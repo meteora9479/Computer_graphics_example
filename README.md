@@ -1,1 +1,1 @@
-# Computer_graphics_example
+# computer_graphics_hw
